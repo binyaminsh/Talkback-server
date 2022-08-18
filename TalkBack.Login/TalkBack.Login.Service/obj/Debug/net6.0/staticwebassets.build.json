@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AkzoIVwPScvZsXgiR+wSrtFrc5Af0OWylwGlyuNG1M0=",
+  "Source": "TalkBack.Login.Service",
+  "BasePath": "_content/TalkBack.Login.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

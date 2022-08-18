@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkBack.Common", "TalkBack.Common\TalkBack.Common.csproj", "{75B5EA26-7822-445D-8183-CB380E6D89D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B5EA26-7822-445D-8183-CB380E6D89D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B5EA26-7822-445D-8183-CB380E6D89D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B5EA26-7822-445D-8183-CB380E6D89D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B5EA26-7822-445D-8183-CB380E6D89D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED4EE94E-A0BB-48B8-AD40-78726E8EFFE6}
+	EndGlobalSection
+EndGlobal
